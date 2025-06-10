@@ -6,7 +6,7 @@ I'm a **Junior Java Developer** with a strong foundation in backend development 
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,bash,regex,git,gradle,hibernate,jenkins,jquery,postgres,sqlite,spring,postman,docker,discord&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,discord,bash,regex,git,gradle,hibernate,jenkins,jquery,postgres,sqlite,spring,postman,docker&perline=5)](https://skillicons.dev)
 
 - **Languages**: Java, SQL, PL/SQL
 - **Frameworks**: Java Core, Collections, Spring Boot, Spring Security, Hibernate Validator
