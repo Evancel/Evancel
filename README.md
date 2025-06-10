@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aleksandra!
+# 👋 Hi, I'm Aleksandra!
 
 I'm a **Junior Java Developer** with a strong foundation in backend development and over a decade of experience as a **System Analyst** in the banking and card processing domain. I'm currently completing an intensive **11-month Java Backend Developer Career Program**, where I've built a wide variety of Java applications and worked with modern backend technologies.
 
