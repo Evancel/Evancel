@@ -17,24 +17,9 @@ I'm a **Junior Java Developer** with a strong foundation in backend development 
 
 ---
 
-## 🧠 Past Experience
-
-🔹 **12+ years** as a **System Analyst** in banking and card processing  
-🔹 Worked with **PL/SQL**, **Oracle**, **Way4** payment solution  
-🔹 Deep understanding of **financial systems**, **data structures**, and **business processes**
-
----
-
 ## 🎯 Career Goals
 
 I'm actively looking for opportunities as a **Junior to Middle Java Developer**, especially in **fintech** companies. I’m also open to backend development roles in other industries where I can grow and contribute to meaningful projects.
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn – Aleksandra Margolina](https://www.linkedin.com/in/aleksandramargolina/)
-- ✉️ Feel free to reach out for collaborations, job opportunities, or to connect with fellow developers!
 
 ---
 
@@ -55,6 +40,21 @@ Check out some of my highlighted projects here on GitHub:
 ### 📈 GitHub Stats
 
 ![Evancel's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&theme=default)
+
+---
+
+## 🧠 Past Experience
+
+🔹 **12+ years** as a **System Analyst** in banking and card processing  
+🔹 Worked with **PL/SQL**, **Oracle**, **Way4** payment solution  
+🔹 Deep understanding of **financial systems**, **data structures**, and **business processes**
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn – Aleksandra Margolina](https://www.linkedin.com/in/aleksandramargolina/)
+- ✉️ Feel free to reach out for collaborations, job opportunities, or to connect with fellow developers!
 
 ---
 
