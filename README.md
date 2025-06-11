@@ -54,7 +54,7 @@ Check out some of my highlighted projects here on GitHub:
 
 ### 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&theme=default)
+https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&theme=default
 
 ---
 
