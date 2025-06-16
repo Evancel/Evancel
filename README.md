@@ -50,7 +50,8 @@ Check out some of my highlighted projects here on GitHub:
   - 🛠️ Developed custom PL/SQL components and managed full product lifecycles on the Way4 platform  
   - 💳 Independently launched high-impact projects including a credit card with a long grace period and a bonus loyalty program  
   - 🤝 Led requirements analysis, improved product architecture, and collaborated with vendors like OpenWay  
-  - ⚡ Known for solving complex issues fast and bridging technical expertise with business insight  
+  - ⚡ Known for solving complex issues fast and bridging technical expertise with business insight
+    
 
 🔹 Tech Stack & Tools  
   - 🧩 Languages: PL/SQL, SQL  
