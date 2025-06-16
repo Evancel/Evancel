@@ -45,9 +45,14 @@ Check out some of my highlighted projects here on GitHub:
 
 ## 🧠 Past Experience
 
-🔹 **12+ years** as a **System Analyst** in banking and card processing  
-🔹 Worked with **PL/SQL**, **Oracle**, **Way4** payment solution  
-🔹 Deep understanding of **financial systems**, **data structures**, and **business processes**
+🔹 12+ years of experience as a System Analyst in banking and card processing
+    – Delivered 50+ banking and card products end-to-end, aligning technical solutions with business goals
+    – Developed custom PL/SQL components and managed full product lifecycles on the Way4 platform
+    – Independently launched key initiatives, including a credit card with a long grace period and a bonus loyalty program
+    – Led requirements analysis, improved system architecture, and collaborated closely with vendors like OpenWay
+    – Recognized for solving complex issues quickly and combining technical expertise with business insight
+🔹 Proficient in PL/SQL, Oracle, and the Way4 payment solution
+🔹 Strong grasp of financial systems, data structures, and business processes
 
 ---
 
