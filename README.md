@@ -27,7 +27,7 @@ I'm actively looking for opportunities as a **Junior to Middle Java Developer**,
 
 Check out some of my highlighted projects here on GitHub:
 
-- 🤖 [Tic-Tac-Toe with AI Java (Java Core +recursion)](https://github.com/Evancel/Tic-Tac-Toe_with_AI_Java)
+- 🤖 [Tic-Tac-Toe with AI Java (Java Core + recursion)](https://github.com/Evancel/Tic-Tac-Toe_with_AI_Java)
 - 💳 [Simple Banking System Java (Java Core)](https://github.com/Evancel/Simple_Banking_System_Java)
 - 🧹 [File-janitor (Bash)](https://github.com/Evancel/File-janitor)
 - 🗓️ [Safety-Net (Git)](https://github.com/Evancel/Safety-Net)
