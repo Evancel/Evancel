@@ -27,13 +27,13 @@ I'm actively looking for opportunities as a **Junior to Middle Java Developer**,
 
 Check out some of my highlighted projects here on GitHub:
 
-- 🤖 [Tic-Tac-Toe with AI (Java Core + recursion)](https://github.com/Evancel/Tic-Tac-Toe_with_AI_Java)
-- 💳 [Simple Banking System (Java Core)](https://github.com/Evancel/Simple_Banking_System_Java)
+- 💪 [Fitness Tracker API (Spring Boot)](https://github.com/Evancel/FitnessTrackerAPI)
+- 💳 [Banking System (Java Core)](https://github.com/Evancel/Banking_System)
+- 🤖 [Tic-Tac-Toe with AI (Java Core + recursion)](https://github.com/Evancel/Tic-Tac-Toe_with_AI_v1)
 - 🧹 [File-janitor (Bash)](https://github.com/Evancel/File-janitor)
 - 🗓️ [Safety-Net (Git)](https://github.com/Evancel/Safety-Net)
 - 🎨 [Coloring (MySQL)](https://github.com/Evancel/Coloring_MySQL)
-- 💪 [Fitness Tracker API (Spring Boot)](https://github.com/Evancel/FitnessTrackerAPI)
-- ⚽ [Football Statistics (Team Project)](https://github.com/Evancel/football-stats)
+- ⚽ [Football Statistics (Team Project)](https://github.com/Evancel/Football_Stats_API_v2)
   
 ---
 
