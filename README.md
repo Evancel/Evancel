@@ -48,9 +48,8 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
 
 ### 📈 GitHub Stats
 
-![Evancel's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evancel&layout=compact&cache_seconds=86400)
+![Evancel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evancel&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evancel&layout=compact)
 
 ---
 
