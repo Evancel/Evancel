@@ -32,14 +32,14 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
 - 🌷 **LaleApp** — language-learning platform (microservices vision)  
   Repo: https://github.com/Evancel/LaleApp
 
+- ⚽ **Football Statistics API (Team Project)** — entities/relations, REST endpoints, collaboration  
+  Repo: https://github.com/Evancel/Football_Stats_API_v2
+
 - 💪 **Fitness Tracker API** — REST API, validation, layered architecture, DB  
   Repo: https://github.com/Evancel/FitnessTrackerAPI
 
 - 💳 **Banking System (Java, DDD-style)** — domain modeling, clean logic, testing mindset  
   Repo: https://github.com/Evancel/Banking_System
-
-- ⚽ **Football Statistics API (Team Project)** — entities/relations, REST endpoints, collaboration  
-  Repo: https://github.com/Evancel/Football_Stats_API_v2
 
 - 🤖 **Tic-Tac-Toe with AI** — recursion + decision logic  
   Repo: https://github.com/Evancel/Tic-Tac-Toe_with_AI_Java
@@ -48,7 +48,9 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
 
 ### 📈 GitHub Stats
 
-![Evancel's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&theme=default)
+![Evancel's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evancel&layout=compact&hide=html,css)
 
 ---
 
@@ -67,7 +69,7 @@ Before moving fully into Java backend, I spent 12+ years as a **System Analyst i
 ## 📫 Let’s connect
 
 - 💼 [LinkedIn – Aleksandra Margolina](https://www.linkedin.com/in/aleksandramargolina/)
-- ✉️ Feel free to reach out for collaborations or job opportunities!
+Feel free to reach out for collaborations or job opportunities!
 
 ---
 
