@@ -48,7 +48,10 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
 
 ### 📈 GitHub Stats
 
-[![Evancel's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancel)](https://github.com/evancel/github-readme-stats)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evancel&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evancel&layout=compact&langs_count=8" />
+</p>
 
 ---
 
