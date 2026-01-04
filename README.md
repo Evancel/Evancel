@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Aleksandra!
+# Hi, I'm Aleksandra 👋
+**Java Backend Developer | Spring Boot | Open to Remote & Turkey roles | Istanbul 🇹🇷**  
+Ex **System Analyst (12+ years)** in banking & card processing — now building API-first backend services.
 
-I'm a **Junior Java Developer** with a strong foundation in backend development and over a decade of experience as a **System Analyst** in the banking and card processing domain. I'm currently completing an intensive **11-month Java Backend Developer Career Program**, where I've built a wide variety of Java applications and worked with modern backend technologies.
+- 🎯 Target roles: **Java Backend Developer** (fintech preferred)
+- 🧠 Strength: bridge **business ↔ tech** (requirements → clean APIs → delivery)
+- 🧰 Currently: Spring Boot, Security (JWT), JPA/Hibernate, PostgreSQL, Docker, tests
 
 ---
 
@@ -8,32 +12,37 @@ I'm a **Junior Java Developer** with a strong foundation in backend development 
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,discord,regex,bash,git,gradle,hibernate,jenkins,jquery,postgres,sqlite,spring,postman,docker&perline=5)](https://skillicons.dev)
 
-- **Languages**: Java, SQL, PL/SQL
-- **Frameworks**: Java Core, Collections, Spring Boot, Spring Security, Hibernate Validator
-- **Databases**: PostgreSQL, SQLite, Oracle
-- **Tools & Platforms**: Git, GitHub, IntelliJ IDEA, Docker, Swagger
-- **Testing**: JUnit 5, Mockito
-- **Other**: REST APIs, JDBC, CI/CD basics, Agile & team collaboration
+**Backend:** Java • Spring Boot • Spring Security • REST • JPA/Hibernate • Validation  
+**DB:** PostgreSQL • Oracle • SQLite  
+**Testing:** JUnit 5 • Mockito  
+**Tooling:** Docker • Git/GitHub • IntelliJ IDEA • Swagger/OpenAPI  
+**Background:** PL/SQL • card processing • banking platforms (Way4/OpenWay)
 
 ---
 
-## 🎯 Career Goals
-
-I'm actively looking for opportunities as a **Junior to Middle Java Developer**, especially in **fintech** companies. I’m also open to backend development roles in other industries where I can grow and contribute to meaningful projects.
+## 🧩 What I bring from 12+ years in fintech systems
+- Delivered features end-to-end under real constraints (deadlines, risk, production incidents)
+- Strong requirements & integration skills (payments/card flows, data consistency, edge cases)
+- Clear communication + ownership: I like shipping **reliable** things
 
 ---
 
 ## 🧰 GitHub Projects
 
-Check out some of my highlighted projects here on GitHub:
+- 🌷 **LaleApp** — language-learning platform (microservices vision)  
+  Repo: https://github.com/Evancel/LaleApp
 
-- 💪 [Fitness Tracker API (Spring Boot)](https://github.com/Evancel/FitnessTrackerAPI)
-- 💳 [Banking System (Java Core)](https://github.com/Evancel/Banking_System)
-- 🤖 [Tic-Tac-Toe with AI (Java Core + recursion)](https://github.com/Evancel/Tic-Tac-Toe_with_AI_v1)
-- 🧹 [File-janitor (Bash)](https://github.com/Evancel/File-janitor)
-- 🗓️ [Safety-Net (Git)](https://github.com/Evancel/Safety-Net)
-- 🎨 [Coloring (MySQL)](https://github.com/Evancel/Coloring_MySQL)
-- ⚽ [Football Statistics (Team Project)](https://github.com/Evancel/Football_Stats_API_v2)
+- 💪 **Fitness Tracker API** — REST API, validation, layered architecture, DB  
+  Repo: https://github.com/Evancel/FitnessTrackerAPI
+
+- 💳 **Banking System (Java, DDD-style)** — domain modeling, clean logic, testing mindset  
+  Repo: https://github.com/Evancel/Banking_System
+
+- ⚽ **Football Statistics API (Team Project)** — entities/relations, REST endpoints, collaboration  
+  Repo: https://github.com/Evancel/Football_Stats_API_v2
+
+- 🤖 **Tic-Tac-Toe with AI** — recursion + decision logic  
+  Repo: https://github.com/Evancel/Tic-Tac-Toe_with_AI_Java
   
 ---
 
@@ -43,27 +52,22 @@ Check out some of my highlighted projects here on GitHub:
 
 ---
 
-## 🧠 Past Experience
+## 🧠 Fintech background (12+ years)
 
-🔹 12+ years of experience as a System Analyst in banking and card processing  
-  - 🚀 Delivered 50+ banking and card products from concept to deployment, aligned with business goals  
-  - 🛠️ Developed custom PL/SQL components and managed full product lifecycles on the Way4 platform  
-  - 💳 Independently launched high-impact projects including a credit card with a long grace period and a bonus loyalty program  
-  - 🤝 Led requirements analysis, improved product architecture, and collaborated with vendors like OpenWay  
-  - ⚡ Known for solving complex issues fast and bridging technical expertise with business insight    
+Before moving fully into Java backend, I spent 12+ years as a **System Analyst in banking & card processing**.
 
-🔹 Tech Stack & Tools  
-  - 🧩 Languages: PL/SQL, SQL  
-  - 🗄️ Databases: Oracle  
-  - 💼 Platforms: Way4 (OpenWay), internal banking systems  
-  - 🔍 Strong understanding of financial systems, data structures, and business processes  
+- 🚀 Delivered **50+** banking/card products from concept → release
+- 🛠️ Built & supported **PL/SQL** components and end-to-end flows on **Way4 (OpenWay)**
+- 🤝 Strong in requirements, integrations, and production problem-solving
+- 💡 I’m good at translating business needs into **clear, testable backend requirements**
 
----
+**Domain:** payments • card processing • integrations • data consistency  
+**Tools:** Oracle • PL/SQL • Way4 (OpenWay)
 
-## 📫 Connect with Me
+## 📫 Let’s connect
 
 - 💼 [LinkedIn – Aleksandra Margolina](https://www.linkedin.com/in/aleksandramargolina/)
-- ✉️ Feel free to reach out for collaborations, job opportunities, or to connect with fellow developers!
+- ✉️ Feel free to reach out for collaborations or job opportunities!
 
 ---
 
