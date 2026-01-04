@@ -1,4 +1,4 @@
-# Hi, I'm Aleksandra 🤓
+# Hi, I'm Aleksandra
 **Java Backend Developer | Spring Boot | Open to Remote & Turkey roles | Istanbul 🇹🇷**  
 Ex **System Analyst (12+ years)** in banking & card processing — now building API-first backend services.
 
