@@ -50,6 +50,8 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
 
 ![Evancel's GitHub stats](https://github-readme-stats-sand-three-16.vercel.app/api?username=Evancel&show_icons=true&include_all_commits=true&count_private=true)
 
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Evancel)
+
 ---
 
 ## 🧠 Fintech background (12+ years)
