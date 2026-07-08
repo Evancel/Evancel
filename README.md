@@ -46,10 +46,13 @@ Ex **System Analyst (12+ years)** in banking & card processing — now building 
   
 ---
 
-### 📈 GitHub Stats
+## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Evancel)
+<div style="background:#0d1117; padding:10px; border-radius:8px;">
 
+<img src="https://ghchart.rshah.org/16a34a/Evancel" />
+
+</div>
 ---
 
 ## 🧠 Fintech background (12+ years)
